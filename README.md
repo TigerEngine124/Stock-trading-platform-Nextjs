@@ -23,7 +23,7 @@ Please follow the instructions below to setup the project:
 First, we need to clone the repository. Open your terminal, navigate to your desired directory, and run the following command:
 
 ```
-git clone https://github.com/mujibsayyad/Stock-Trading-Platform.git
+git clone https://github.com/TigerEnigne124/Stock-Trading-Platform-Nextjs.git
 ```
 
 ### Navigate into the Project Directory
